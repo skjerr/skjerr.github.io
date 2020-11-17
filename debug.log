@@ -8,3 +8,5 @@
 [1204/164110.760:ERROR:crash_report_database_win.cc(428)] unexpected header
 [1204/170614.907:ERROR:crash_report_database_win.cc(428)] unexpected header
 [1204/170819.039:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1113/162727.431:ERROR:directory_reader_win.cc(43)] FindFirstFile: Det går inte att hitta sökvägen. (0x3)
+[1117/085251.248:ERROR:directory_reader_win.cc(43)] FindFirstFile: Det går inte att hitta sökvägen. (0x3)
