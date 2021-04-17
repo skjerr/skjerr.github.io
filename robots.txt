@@ -1,0 +1,5 @@
+Sitemap: https://skjerr.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
+
